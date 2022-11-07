@@ -10,7 +10,7 @@ export default function Navbar(props) {
                 src="./images/react-icon-small.png"
                 alt=""
             />
-            <h3 className="nav--logo_text">ReactFacts</h3>
+            <h3 className="nav--logo_text">AccioJob</h3>
             
             <div 
                 className="toggler" 
